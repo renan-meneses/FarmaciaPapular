@@ -3,8 +3,7 @@
 /**
  * Edição: Mateus Cardoso
  * 
- * E-mail: matecardoso38@gmail.com
- */
+ * E-mail: renan.meneses@alu.ufc.br */
 
 use Illuminate\Support\Facades\Auth;
 
@@ -46,7 +45,7 @@ return [
     |
     */
 
-    'title' => 'SisFarmácia',
+    'title' => 'FarmaciaPopular',
 
     'title_prefix' => '',
 
@@ -63,9 +62,9 @@ return [
     |
     */
 
-    'logo' => '<b>Sis</b>Farmácia',
+    'logo' => '<b>Farmácia</b>Popular',
 
-    'logo_mini' => '<b>SF</b>',
+    'logo_mini' => '<b>FP</b>',
 
     /*
     |--------------------------------------------------------------------------
@@ -78,7 +77,7 @@ return [
     |
     */
 
-    'skin' => 'blue',
+    'skin' => 'gray',
 
     /*
     |--------------------------------------------------------------------------

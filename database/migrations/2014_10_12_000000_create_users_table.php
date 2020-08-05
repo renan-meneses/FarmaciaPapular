@@ -3,8 +3,7 @@
 /**
  * Edição: Mateus Cardoso
  * 
- * E-mail: matecardoso38@gmail.com
- */
+ * E-mail: renan.meneses@alu.ufc.br */
 
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;

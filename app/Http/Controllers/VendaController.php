@@ -3,8 +3,7 @@
 /**
  * Autor: Mateus Cardoso
  * 
- * E-mail: matecardoso38@gmail.com
- */
+ * E-mail: renan.meneses@alu.ufc.br */
 
 namespace App\Http\Controllers;
 

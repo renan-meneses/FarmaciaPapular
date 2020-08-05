@@ -16,18 +16,6 @@ O sistema utiliza o layout de painel de controle [AdminLTE](https://adminlte.io/
 
 ## Configuração
 
-Após clonar o projeto, com o terminal aberto na pasta do projeto, execute o comando:
-
-```composer install --no-scripts```
-
-Renomeie então o arquivo:
-
-```.env.example```
-
-para
-
-```.env```
-
 Dentro do arquivo .env edite os campos para que fiquem como os demonstrados abaixo:
 
 ```DB_CONNECTION=mysql```
