@@ -45,7 +45,7 @@ return [
     |
     */
 
-    'title' => 'FarmaciaPopular',
+    'title' => 'Farmacia Popular',
 
     'title_prefix' => '',
 
